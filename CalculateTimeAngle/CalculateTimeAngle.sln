@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTimeAngle", "CalculateTimeAngle.csproj", "{94B2A448-99E9-4C96-9EA2-30B4AE077098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTimeAngleTests1", "..\CalculateTimeAngleTests1\CalculateTimeAngleTests1.csproj", "{6CA3AF7F-0972-4BE1-8476-4E5761E61EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B2A448-99E9-4C96-9EA2-30B4AE077098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B2A448-99E9-4C96-9EA2-30B4AE077098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B2A448-99E9-4C96-9EA2-30B4AE077098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B2A448-99E9-4C96-9EA2-30B4AE077098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA3AF7F-0972-4BE1-8476-4E5761E61EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA3AF7F-0972-4BE1-8476-4E5761E61EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA3AF7F-0972-4BE1-8476-4E5761E61EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA3AF7F-0972-4BE1-8476-4E5761E61EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7010D0A9-3E71-4174-B394-D2385A29C493}
+	EndGlobalSection
+EndGlobal
